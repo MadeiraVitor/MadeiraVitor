@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu perfil
+# Olá, seja bem vindo ao meu perfil 👋
 
 <br>
 
