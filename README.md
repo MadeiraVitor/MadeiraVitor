@@ -1,4 +1,5 @@
 # Olá, seja bem vindo ao meu perfil 👋
+Sou desenvolvedor front-end em treinamento, estou estudando atualmente HTML, CSS, JavaScript e React.
 
 <br>
 
