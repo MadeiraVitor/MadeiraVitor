@@ -2,16 +2,17 @@
 💻 Desenvolvedor Front-end
 <br>
 🎯 Apaixonado por interfaces bem estruturadas e código limpo
+
 <br>
 
-## 🧑‍💻 Sobre mim:
+### 🧑‍💻 Sobre mim:
 Sou desenvolvedor front-end com foco em criar interfaces acessíveis, organizadas e escaláveis.
 Gosto de aprender na prática, dividir problemas grandes em partes menores e evoluir projetos passo a passo.
 Atualmente estou aprofundando meus conhecimentos em JavaScript e consumo de APIs REST.
 
 <br>
 
-  ## 🛠️ Linguagens e Ferramentas:
+  ### 🛠️ Linguagens e Ferramentas:
   <div style="display: inline_block">
     <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -22,19 +23,7 @@ Atualmente estou aprofundando meus conhecimentos em JavaScript e consumo de APIs
  
  <br>
 
- ## 📊 GitHub Stats:
-
-<div align="center">
-
-![Vitor Madeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadeiraVitor&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeiraVitor&layout=compact&theme=tokyonight)
-
-</div>
-
-<br>
- 
-  ## Vamos nos conectar:
+  ### Vamos nos conectar:
  
 <div> 
   <a href="https://www.linkedin.com/in/vitor-madeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
