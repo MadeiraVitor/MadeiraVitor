@@ -23,7 +23,7 @@ Atualmente estou aprofundando meus conhecimentos em JavaScript e consumo de APIs
  
  <br>
 
-  ### Vamos nos conectar:
+  ### 📫 Vamos nos conectar:
  
 <div> 
   <a href="https://www.linkedin.com/in/vitor-madeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
