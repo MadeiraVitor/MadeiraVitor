@@ -1,23 +1,38 @@
-# Olá, seja bem vindo ao meu perfil 👋
-Sou desenvolvedor front-end em treinamento, estou estudando atualmente HTML, CSS, JavaScript e React.
+# 👋 Olá, eu sou o Vitor Madeira
+💻 Desenvolvedor Front-end
+<br>
+🎯 Apaixonado por interfaces bem estruturadas e código limpo
+<br>
+
+## 🧑‍💻 Sobre mim:
+Sou desenvolvedor front-end com foco em criar interfaces acessíveis, organizadas e escaláveis.
+Gosto de aprender na prática, dividir problemas grandes em partes menores e evoluir projetos passo a passo.
+Atualmente estou aprofundando meus conhecimentos em JavaScript e consumo de APIs REST.
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/MadeiraVitor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadeiraVitor&layout=compact&langs_count=6&theme=dark"/>
-</div>
-  
-  ## Linguagens e Ferramentas:
+  ## 🛠️ Linguagens e Ferramentas:
   <div style="display: inline_block">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
  
  <br>
+
+ ## 📊 GitHub Stats:
+
+<div align="center">
+
+![Vitor Madeira GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadeiraVitor&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeiraVitor&layout=compact&theme=tokyonight)
+
+</div>
+
+<br>
  
   ## Vamos nos conectar:
  
