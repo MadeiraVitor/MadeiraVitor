@@ -6,9 +6,16 @@
 <br>
 
 ### 🧑‍💻 Sobre mim:
-Sou desenvolvedor front-end com foco em criar interfaces acessíveis, organizadas e escaláveis.
-Gosto de aprender na prática, dividir problemas grandes em partes menores e evoluir projetos passo a passo.
-Atualmente estou aprofundando meus conhecimentos em JavaScript e consumo de APIs REST.
+Desenvolvedor Front-End Júnior com foco em React e TypeScript, atuando na construção de interfaces modernas, performáticas e bem estruturadas.
+
+Desenvolvo aplicações consumindo APIs REST, implementando validações de formulários, gerenciamento de estado com hooks e componentização reutilizável. Utilizo TypeScript para aumentar a previsibilidade do código e reduzir erros em tempo de desenvolvimento.
+
+Tenho como prioridade escrever código limpo, organizado e escalável, seguindo boas práticas e versionamento com Git. Busco evoluir constantemente em arquitetura de projetos, performance e experiência do usuário.
+
+Principais tecnologias:
+React | TypeScript | JavaScript | Tailwind CSS | Git & GitHub
+
+Estou em busca de uma oportunidade como Desenvolvedor Front-End Júnior onde eu possa contribuir ativamente com o time, assumir responsabilidades e continuar evoluindo tecnicamente em projetos reais.
 
 <br>
 
