@@ -1,21 +1,16 @@
 # 👋 Olá, eu sou o Vitor Madeira
-💻 Desenvolvedor Front-end
+💻 Desenvolvedor Full-Stack
 <br>
-🎯 Apaixonado por interfaces bem estruturadas e código limpo
+🎯 Construo aplicações completas e performáticas, do front ao back.
 
 <br>
 
 ### 🧑‍💻 Sobre mim:
-Desenvolvedor Front-End Júnior com foco em React e TypeScript, atuando na construção de interfaces modernas, performáticas e bem estruturadas.
+Sou Desenvolvedor Full-Stack com foco em construir aplicações modernas, performáticas e bem estruturadas, atuando tanto no front-end quanto no back-end.
 
-Desenvolvo aplicações consumindo APIs REST, implementando validações de formulários, gerenciamento de estado com hooks e componentização reutilizável. Utilizo TypeScript para aumentar a previsibilidade do código e reduzir erros em tempo de desenvolvimento.
+No front-end, trabalho com React, TypeScript e TailwindCSS para criar interfaces responsivas, intuitivas e com ótima experiência para o usuário. No back-end, utilizo Node.js, Express e PostgreSQL para desenvolver APIs REST seguras, escaláveis e organizadas, aplicando boas práticas e padrões de projeto. Também utilizo Prisma para modelagem e integração eficiente com o banco de dados.
 
-Tenho como prioridade escrever código limpo, organizado e escalável, seguindo boas práticas e versionamento com Git. Busco evoluir constantemente em arquitetura de projetos, performance e experiência do usuário.
-
-Principais tecnologias:
-React | TypeScript | JavaScript | Tailwind CSS | Git & GitHub
-
-Estou em busca de uma oportunidade como Desenvolvedor Front-End Júnior onde eu possa contribuir ativamente com o time, assumir responsabilidades e continuar evoluindo tecnicamente em projetos reais.
+Tenho interesse constante em evoluir como desenvolvedor, buscando escrever código limpo, reutilizável e de fácil manutenção. Gosto de transformar ideias em soluções reais, sempre equilibrando performance, usabilidade e qualidade técnica.
 
 <br>
 
