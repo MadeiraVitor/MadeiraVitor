@@ -8,22 +8,25 @@
 ### 🧑‍💻 Sobre mim:
 Sou Desenvolvedor Full-Stack com foco em construir aplicações modernas, performáticas e bem estruturadas, atuando tanto no front-end quanto no back-end.
 
-No front-end, trabalho com React, TypeScript e TailwindCSS para criar interfaces responsivas, intuitivas e com ótima experiência para o usuário. No back-end, utilizo Node.js, Express e PostgreSQL para desenvolver APIs REST seguras, escaláveis e organizadas, aplicando boas práticas e padrões de projeto. Também utilizo Prisma para modelagem e integração eficiente com o banco de dados.
+No front-end, trabalho com Next, React, TypeScript e TailwindCSS para criar interfaces responsivas, intuitivas e com ótima experiência para o usuário. No back-end, utilizo Node.js, Express, Fastify e PostgreSQL para desenvolver APIs REST seguras, escaláveis e organizadas, aplicando boas práticas e padrões de projeto. Também utilizo Prisma para modelagem e integração eficiente com o banco de dados.
 
 Tenho interesse constante em evoluir como desenvolvedor, buscando escrever código limpo, reutilizável e de fácil manutenção. Gosto de transformar ideias em soluções reais, sempre equilibrando performance, usabilidade e qualidade técnica.
 
 <br>
 
   ### 🛠️ Linguagens e Ferramentas:
-  <div style="display: inline_block">
-    <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
+  #### Linguagens:
+  [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
+  #### Front-End:
+  [![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind)](https://skillicons.dev)
+  #### Back-End:
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma)](https://skillicons.dev)   
+  #### Banco de Dados:
+  [![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+  #### Cloud & DevOps:
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker)](https://skillicons.dev)
+  #### Ferramentas:
+  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
  
  <br>
 
